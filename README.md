@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Alex Shepherd
-- 👀 I’m interested in Robotics and Electrical Engineering
-- 🌱 I’m currently learning Electrical Engineering at the University of Calgary
+Hi! I'm Alex Shepherd.
+
+I am a fourth-year electrical student at the University of Calgary.
